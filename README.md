@@ -1,4 +1,4 @@
-![Street(Output_Image)](https://github.com/user-attachments/assets/6addc0b9-522a-497f-8ab7-128a9b3b1420)### [MODEL Foler Download](https://drive.google.com/drive/folders/1K-tiGadK41m-sy9usl4MUYqTnj2F_a34?usp=sharing)
+### [MODEL Foler Download](https://drive.google.com/drive/folders/1K-tiGadK41m-sy9usl4MUYqTnj2F_a34?usp=sharing)
 
 # Results
 
